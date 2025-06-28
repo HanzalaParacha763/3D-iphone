@@ -6,8 +6,7 @@ A sleek and interactive 3D model of the iPhone, built using **Three.js**, **Reac
 
 ## 🚀 Live Demo
 
-👉 [View it in action](https://your-deployed-link.com)  
-*(Replace this with your actual deployment link once available.)*
+👉 [View it in action]([https://your-deployed-link.com](https://3-d-iphone-h3.vercel.app/))  
 
 ---
 
